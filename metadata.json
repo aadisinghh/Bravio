@@ -1,0 +1,8 @@
+
+{
+  "name": "Gemini Voice Assistant",
+  "description": "A voice-controlled assistant powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
